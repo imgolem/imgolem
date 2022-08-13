@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# I create different things related to minecraft computer game. Plugins for Spigot/Paper, BungeeCord, launchers and more...
+
 <!--
 **GolemIron/GolemIron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
