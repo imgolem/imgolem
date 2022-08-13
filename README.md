@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I create different things related to minecraft computer game. Plugins for Spigot/Paper, BungeeCord, launchers and more...
+I create different things related to Minecraft computer game. 
+Mostly I code plugins (for Spigot/Paper, BungeeCord) and launchers using `Java` and `Kotlin` programming languages.
 
 <!--
 **GolemIron/GolemIron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
