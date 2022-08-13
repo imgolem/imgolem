@@ -3,7 +3,7 @@
 I create different things related to Minecraft computer game. 
 Mostly I code plugins (for Spigot/Paper, BungeeCord) and launchers using `Java` and `Kotlin` programming languages.
 
-![image](https://user-images.githubusercontent.com/70803015/184477865-9da9e4b6-5891-4c6c-809e-bb4ee5440aa2.png)
+
 
 <!--
 **GolemIron/GolemIron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
