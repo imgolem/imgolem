@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I create different things related to Minecraft computer game. 
-Mostly I code plugins (for Spigot/Paper, BungeeCord) and launchers using `Java` and `Kotlin` programming languages.
+Mostly I code plugins (for Spigot/Paper, BungeeCord) and clients using `Java` and `Kotlin` programming languages.
 
 [![My GitHub stats:](https://github-readme-stats.vercel.app/api?username=GolemIron&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117)](https://skyline.github.com/GolemIron/2022)
 
